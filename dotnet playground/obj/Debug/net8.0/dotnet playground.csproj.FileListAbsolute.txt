@@ -1,0 +1,15 @@
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/bin/Debug/net8.0/dotnet playground
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/bin/Debug/net8.0/dotnet playground.deps.json
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/bin/Debug/net8.0/dotnet playground.runtimeconfig.json
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/bin/Debug/net8.0/dotnet playground.dll
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/bin/Debug/net8.0/dotnet playground.pdb
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.AssemblyInfoInputs.cache
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.AssemblyInfo.cs
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.csproj.CoreCompileInputs.cache
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.sourcelink.json
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.dll
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/refint/dotnet playground.dll
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.pdb
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/dotnet playground.genruntimeconfig.cache
+/Users/ihsanfarabi/RiderProjects/dotnet_playground/dotnet playground/obj/Debug/net8.0/ref/dotnet playground.dll
